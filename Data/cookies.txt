@@ -2,13 +2,13 @@
 # http://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file!  Do not edit.
 
-.facebook.com	TRUE	/	TRUE	1736005960	sb	bkI3ZfO229U0a6acD5dwPzMO
-.facebook.com	TRUE	/	TRUE	1734540163	datr	bkI3ZbUE1db2u4F2Wh2uK4ql
-.www.facebook.com	TRUE	/	TRUE	1734711261	m_ls	%7B%22c%22%3A%7B%221%22%3A%22HCwAABYOFvTgt8IDEwUWirPnwPH-GwA%22%2C%222%22%3A%22GSwVQBxMAAAWARamnLHVDBYAABV-HEwAABYAFqacsdUMFgAAFigA%22%2C%2295%22%3A%22HCwAABYEFoLF9Z8DEwUWirPnwPH-GwA%22%7D%2C%22d%22%3A%22644551f1-a3ec-4faf-be5a-6eb12d5972db%22%2C%22s%22%3A%220%22%2C%22u%22%3A%229fbn22%22%7D
-.facebook.com	TRUE	/	TRUE	1701849446	locale	vi_VN
-.facebook.com	TRUE	/	TRUE	1702050777	wd	1536x707
-.facebook.com	TRUE	/	TRUE	1702050777	dpr	1.25
-.facebook.com	TRUE	/	TRUE	1732981960	c_user	61553835731199
-.facebook.com	TRUE	/	TRUE	1732981960	xs	46%3AMTACY4MhCKmwXA%3A2%3A1701445958%3A-1%3A-1
-.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1701445964590%2C%22v%22%3A1%7D
-.facebook.com	TRUE	/	TRUE	1709221975	fr	1LCwXRjRm75TRvDHH.AWUcx-0vLNjdnppXuxY0_ybhsqs.Blaf28.Jg.AAA.0.0.BlagFX.AWXRswm4R4w
+.facebook.com	TRUE	/	TRUE	1717066077	sb	3lpOZPHpcpsy6uA14s5h-qwV
+.facebook.com	TRUE	/	TRUE	1715603418	datr	Reg7ZSSEFNkg0zu4eCKZc2bI
+.facebook.com	TRUE	/	TRUE	1701832927	locale	vi_VN
+www.facebook.com	FALSE	/	TRUE	1701845531	datr	__GMZCgwVF5BbyvAtfJojQwg
+.facebook.com	TRUE	/	TRUE	1702118925	wd	1536x718
+.facebook.com	TRUE	/	TRUE	1702118924	dpr	1.25
+.facebook.com	TRUE	/	TRUE	1717066116	c_user	61553835731199
+.facebook.com	TRUE	/	TRUE	1717066116	xs	1%3ATECKH58TjspMdw%3A2%3A1701514074%3A-1%3A-1%3A%3AAcV4gqOpTe3bAnG8NpTvzGcU8d7rGdCMFo8jyo7a0Q
+.facebook.com	TRUE	/	TRUE	1709290119	fr	0eckRK5Tjh2Tq2gFg.AWV9glbsCpT6nbiHko14jYnNJB4.BlawuG.g7.AAA.0.0.BlawuG.AWWpo1QyRFU
+.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1701514128462%2C%22v%22%3A1%7D
